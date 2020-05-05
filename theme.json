@@ -1,4 +1,4 @@
-[code][
+
     {
         "author" : "Fallen",
         "name" : "Themeperso",
@@ -6,9 +6,8 @@
         "version" : "1.0.0",
         "dofusVersion" : "2.55",
         "description" : "Description of my theme",
-        "url" : "https://github.com/fireone62/themes/blob/master/Themeperso.zip",
+        "url" : "https://github.com/fireone62/Testtheme/raw/master/Themeperso.zip",
         "previewUrl" : "http://mywebsite.com/preview.jpg",
         "creationDate" : "05/05/2020",
         "modificationDate" : "05/05/2020"
     }
-][/code]
